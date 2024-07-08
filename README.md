@@ -1,7 +1,0 @@
-- 👋 Hi, I’m @carlitoboiy
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning lua
-- 💞️ I’m looking to collaborate on none??
-- 📫 How to reach me @businezmen - discord @mr_fleedy - telegram
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: im russian and we dont drink vodka on a bear
